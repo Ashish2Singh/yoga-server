@@ -12,20 +12,13 @@ Responsive Design: Works on both desktop and mobile devices.
 To get started with Yoga Master Client, follow these steps:
 
 ## Clone the repository:
-bash
-Copy code
 git clone https://github.com/yourusername/yoga-master-client.git
 ## Navigate to the project directory:
-bash
-Copy code
+
 cd yoga-master-client
 ## Install the dependencies:
-bash
-Copy code
 npm install
 ## Start the development server:
-bash
-Copy code
 npm start
 ## Usage
 Once the development server is running, you can access the app at http://localhost:3000. From here, you can create an account, browse yoga sessions, and start practicing.
